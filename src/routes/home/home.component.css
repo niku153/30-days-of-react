@@ -1,0 +1,38 @@
+.home-container {
+  margin-top: 50px;
+}
+
+.project-preview {
+  display: flex;
+  justify-content: center;
+}
+.project-preview h2 {
+  color: white;
+  font-weight: 200;
+}
+
+.project-preview p {
+  color: white;
+  font-style: italic;
+  font-weight: 100;
+  margin-bottom: 30px;
+}
+
+.button-link {
+  border: 1px solid;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: lighter;
+  border-radius: 4px;
+}
+
+.project-snapshot {
+  margin-left: 150px;
+  border-radius: 8px;
+}
+
+.project-blurb {
+  margin-right: 150px;
+  margin-left: 50px;
+}
